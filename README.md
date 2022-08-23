@@ -12,7 +12,7 @@
          <img src="https://img.shields.io/badge/LinkedIn-Julio%20Lopez-blue"
               alt="LinkedIn Badge" />
   </a>
-  <a href="https://youtube.be/W55lXuDuRVM" target="_blank">
+  <a href="https://youtube.be/WS5lXuDuRVM" target="_blank">
          <img src="https://img.shields.io/youtube/views/WS5lXuDuRVM?color=red&label=YouTube&style=social"
               alt="YouTube Badge" />
   </a>
