@@ -23,5 +23,11 @@
   </div>
 
 ---
+---
+<div id="header" align="center">
+<h1 align="center">   Ozone Biotech</h1>
+<img src="https://img.shields.io/youtube/views/Cbic1IndEZU?label=Ozone%20Biotech&logo=YouTube&style=social" width=200 />
 
+<h3 align="center">Ozone Biotech identifies potential uses for ozone in the health sector, developing and marketing innovative methods for sterilization, deodorization, water, and air decontamination, destruction of bacteria and deleterious molecules and many other processes, all based on the highly oxidizing properties of the O3 molecule. Ozone is a gas present in the troposphere, where it acts as a protective barrier shielding the surface of the Earth from ultraviolet rays, and this is one of the most important elements in the preservation of life on our planet. Additionally, its highly oxidizing properties have permitted its use in the elimination of toxic smoke and air deodorizing, and cleanup and water disinfection processes. It is three times more efficient and thousands of times faster than bleach in these applications. Its use as a sterilization has been characteristically focused on devices used in invasive medical procedures such as catheters, acting as an effective substitute for UV rays, and recently as an antiseptic in dental treatments. Additionally, it had used in structural air ventilation systems to combat “sick building syndrome”.</h3>
 
+</div>
