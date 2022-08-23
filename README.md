@@ -35,6 +35,49 @@
 
 </div>
 
+---
+<div id="header" align="center">
+<h1 align="center">   Artificial Skin</h1>
+  <a href="https://youtu.be/MQlkkzuJEv8" target="_blank">
+         <img src="https://img.shields.io/youtube/views/MQlkkzuJEv8?label=Artificial%20Skin&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+</a>
+
+<h3 align="center">Artificial Skin encourages and supports the development and production of artificial human Skin. When combined with ozone and bio larval therapies, the artificial Skin provides positive and efficient results for the most expeditious and most minor painful recovery of patients with compromised dermal conditions. It even substantially reduces scarring resulting from surgery. It is a microfiber and biosynthetic, pure cellulose film that is an ideal temporary substitute for Skin, having a very similar structure. The first applications of artificial Skin were in cases of a temporary need for Skin. At the same time, the body healed itself from severe burns, bedsores, and other dermal ulcers, surgical incisions, and excoriations or other traumatic injuries. Artificial Skin will be at the forefront of developing new and increasingly sophisticated technology as it matures”.</h3>
+
+</div>
+
+---
+<div id="header" align="center">
+<h1 align="center">   Corne X</h1>
+  <a href="https://youtu.be/5R3zNP_EQbo" target="_blank">
+         <img src="https://img.shields.io/youtube/views/5R3zNP_EQbo?label=Corne%20X&logo=YouTube&style=social"
+"
+              alt="YouTube Badge" />
+</a>
+
+<h3 align="center">Artificial Cornea, through its application of protocols developed at the Tissue Bioengineering Lab of Simon Bolivar University, may offer new hope for millions of people worldwide who have blindness caused by disease or injury to the Cornea. Artificial Cornea is responsible for manufacturing the artificial Cornea, the lens that focuses light on the retina and creates the image in the eye. Composed of a hydrogel or polymer that can store a large amount of water in its structure, it functions as a replacement for the damaged tissue. Regenerative medicine is a field with the potential for exponential growth. It will attract capital investments worth millions of dollars worldwide as it grows. The Tissue Bioengineering Lab of Simon Bolivar University has significant experience generating replacement corneal tissue. Artificial Cornea is a leading developer of this crucial medical material through this connection”.</h3>
+
+</div>
+
+---
+<div id="header" align="center">
+<h1 align="center">   Other projects</h1>
+
+<div id="badges" align="center">
+     <a href="https://youtu.be/DURYegqVyV8” target="_blank">
+         <img src="https://img.shields.io/youtube/views/DURYegqVyV8?label=BioHydrogels&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/74G-oV0ixOU" target="_blank">
+         <img src="https://img.shields.io/youtube/views/74G-oV0ixOU?label=Artificial%20Prosthesis%20X&logo=YouTube&style=social "
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/_9lWrZiTnUM " target="_blank">
+         <img src="https://img.shields.io/youtube/views/_9lWrZiTnUM?label=Neuronet%20X&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  </div>
 
 
 
