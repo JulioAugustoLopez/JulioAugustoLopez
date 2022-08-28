@@ -62,7 +62,7 @@
 
 ---
 <div id="header" align="center">
-<h1 align="center">   Other projects</h1>
+<h1 align="center">   Other Health Projects</h1>
 
 <div id="badges" align="center">
      <a href="https://youtu.be/DURYegqVyV8” target="_blank">
