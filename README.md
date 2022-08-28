@@ -145,7 +145,23 @@
 </a>
 
 </div>
+<div id="header" align="center">
+<h1 align="center">   Silicon Valley TV</h1>
 
+<div id="badges" align="center">
+     <a href="https://youtu.be/ulOSpD2qIlQ" target="_blank">
+         <img src="https://img.shields.io/youtube/views/ulOSpD2qIlQ?label=Silicon%20Valley%20TV&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/HxW-0TJVkoc" target="_blank">
+         <img src="https://img.shields.io/youtube/views/HxW-0TJVkoc?label=Promo%20Sport%20Labs&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/C6u3H6DFFDo" target="_blank">
+         <img src="https://img.shields.io/youtube/views/C6u3H6DFFDo?label=Promo%20Everything%20for%20Gamers&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  </div>
 ---
 ---
 
