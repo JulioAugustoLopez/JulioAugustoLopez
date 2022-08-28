@@ -62,11 +62,11 @@
 
 ---
 <div id="header" align="center">
-<h1 align="center">   Other Health Projects</h1>
+<h1 align="center">   + Health Projects</h1>
 
 <div id="badges" align="center">
-     <a href="https://youtu.be/DURYegqVyV8” target="_blank">
-         <img src="https://img.shields.io/youtube/views/DURYegqVyV8?label=BioHydrogels&logo=YouTube&style=social"
+     <a href="https://youtu.be/xEZ_pbXUyps” target="_blank">
+         <img src="https://img.shields.io/youtube/views/xEZ_pbXUyps?label=Exponential%20Medicine&logo=YouTube&style=social"
               alt="YouTube Badge" />
   </a>
   <a href="https://youtu.be/74G-oV0ixOU" target="_blank">
@@ -78,6 +78,73 @@
               alt="YouTube Badge" />
   </a>
   </div>
+  <div id="header" align="center">
+<h1 align="center">   Other Projects</h1>
+
+<div id="badges" align="center">
+     <a href="https://youtu.be/DURYegqVyV8” target="_blank">
+         <img src="https://img.shields.io/youtube/views/DURYegqVyV8?label=BioHydrogels&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/_Yd8LOIUdfE" target="_blank">
+         <img src="https://img.shields.io/youtube/views/_Yd8LOIUdfE?label=180%20High%20Tech%20Labs&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/g5RH76DxfL0" target="_blank">
+         <img src="https://img.shields.io/youtube/views/g5RH76DxfL0?label=Graphene%20Inc&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+              
+</a>
+
+</div>
+<div id="badges" align="center">
+     <a href="https://youtu.be/c2Jgpn4gmcU” target="_blank">
+         <img src="https://img.shields.io/youtube/views/c2Jgpn4gmcU?label=Ligo&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/I4NQUR71n_0" target="_blank">
+         <img src="https://img.shields.io/youtube/views/I4NQUR71n_0?label=Intelligent%20Driving%20Device%20%28IDD%29&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/GAyq9TdGTtI" target="_blank">
+         <img src="https://img.shields.io/youtube/views/GAyq9TdGTtI?label=Coke%20X&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+              
+</a>
+
+</div>
+<div id="badges" align="center">
+     <a href="https://youtu.be/CXQGoFUgV3o” target="_blank">
+         <img src="https://img.shields.io/youtube/views/CXQGoFUgV3o?label=Driving%20Ability%20System%20%28DAS%29&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/Gt53AQnaMaI" target="_blank">
+         <img src="https://img.shields.io/youtube/views/Gt53AQnaMaI?label=Vsets&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/0NvXtKowSF8" target="_blank">
+         <img src="https://img.shields.io/youtube/views/Gt53AQnaMaI?label=3D%20Factory&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+              
+</a>
+
+</div>
+<div id="badges" align="center">
+     <a href="https://youtu.be/kpV8yO5qjlg” target="_blank">
+         <img src="https://img.shields.io/youtube/views/kpV8yO5qjlg?label=Nano%20University&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/7K7KkJK_3Es" target="_blank">
+         <img src="https://img.shields.io/youtube/views/7K7KkJK_3Es?label=Olympic%20eGames&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+  </a>
+  <a href="https://youtu.be/5CsOvmiNzrg" target="_blank">
+         <img src="https://img.shields.io/youtube/views/5CsOvmiNzrg?label=Patents%20Funds%20of%20the%20Americas&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+              
+</a>
+
+</div>
 
 ---
 ---
