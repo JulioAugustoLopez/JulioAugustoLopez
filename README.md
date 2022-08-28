@@ -145,6 +145,9 @@
 </a>
 
 </div>
+     
+ ---
+     
 <div id="header" align="center">
 <h1 align="center">   Silicon Valley TV</h1>
 
@@ -162,7 +165,39 @@
               alt="YouTube Badge" />
   </a>
   </div>
-     
+    <div id="header" align="center">
+<h1 align="center">   + Communications Projects</h1>
+    </a>
+  <a href="https://medium.com/@cdn.ceo/the-daily-journal-1945-2008-44539ff7006c" target="_blank">
+         <img src="https://img.shields.io/badge/Medium-The%20Daily%20Journal-lightgrey"
+              alt="Medium Badge" />
+ 
+</a>
+  <a href="https://medium.com/@cdn.ceo/anzo%C3%A1tegui-tv-30d1da264bfc" target="_blank">
+         <img src="https://img.shields.io/badge/Medium-Anzoategui%20TV-lightgrey"
+              alt="Medium Badge" />
+
+</a>
+  <a href="https://youtu.be/43Z1XFYIZgo" target="_blank">
+         <img src="https://img.shields.io/youtube/views/43Z1XFYIZgo?label=Mira%20TV%20%26%20Mediaset%20Spain&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+
+</a>
+  <a href="https://youtu.be/8sHpeI_r-qo" target="_blank">
+         <img src="https://img.shields.io/youtube/views/8sHpeI_r-qo?label=Mira%20TV%20&logo=YouTube&style=social"
+              alt="YouTube Badge" />
+
+</a>
+  <a href="https://medium.com/@cdn.ceo/amtv-9ef5f4e249d9" target="_blank">
+         <img src="https://img.shields.io/badge/Medium-AMTV-lightgrey"
+              alt="Medium Badge" />
+</a>
+     <a href="https://medium.com/@cdn.ceo/communication-project-for-defense-industry-f2347d392a34" target="_blank">
+         <img src="https://img.shields.io/badge/Medium-Communication%20Project%20for%20Defense%20Industry-lightgrey"
+              alt="Medium Badge" />
+ </a>
+ </div>
+    
 ---
 ---
 
