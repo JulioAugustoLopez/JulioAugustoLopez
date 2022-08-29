@@ -43,7 +43,7 @@
               alt="YouTube Badge" />
 </a>
 
-<h3 align="center">Artificial Skin encourages and supports the development and production of artificial human Skin. It is a microfiber and biosynthetic, pure cellulose film that is an ideal temporary substitute for Skin, having a very similar structure.</h3>
+<h3 align="center">Artificial Skin encourages and supports the development and production of artificial human Skin. Our product is a microfiber and biosynthetic, pure cellulose film that is an ideal temporary substitute for Skin, having a very similar structure.</h3>
 
 </div>
 
