@@ -31,7 +31,7 @@
               alt="YouTube Badge" />
 </a>
 
-<h3 align="center">Ozone Biotech identifies potential uses for ozone in the health sector, developing and marketing innovative methods for sterilization, deodorization, water, and air decontamination, destruction of bacteria and deleterious molecules and many other processes, all based on the highly oxidizing properties of the O3 molecule. Ozone is a gas present in the troposphere, where it acts as a protective barrier shielding the surface of the Earth from ultraviolet rays, and this is one of the most important elements in the preservation of life on our planet. Additionally, its highly oxidizing properties have permitted its use in the elimination of toxic smoke and air deodorizing, and cleanup and water disinfection processes. It is three times more efficient and thousands of times faster than bleach in these applications. Its use as a sterilization has been characteristically focused on devices used in invasive medical procedures such as catheters, acting as an effective substitute for UV rays, and recently as an antiseptic in dental treatments. Additionally, it had used in structural air ventilation systems to combat “sick building syndrome".</h3>
+<h3 align="center">Ozone Biotech identifies potential uses for ozone in the health sector, developing and marketing innovative methods for sterilization, deodorization, water, and air decontamination, destruction of bacteria and deleterious molecules and many other processes, all based on the highly oxidizing properties of the O3 molecule.</h3>
 
 </div>
 
@@ -43,7 +43,7 @@
               alt="YouTube Badge" />
 </a>
 
-<h3 align="center">Artificial Skin encourages and supports the development and production of artificial human Skin. When combined with ozone and bio larval therapies, the artificial Skin provides positive and efficient results for the most expeditious and most minor painful recovery of patients with compromised dermal conditions. It even substantially reduces scarring resulting from surgery. It is a microfiber and biosynthetic, pure cellulose film that is an ideal temporary substitute for Skin, having a very similar structure. The first applications of artificial Skin were in cases of a temporary need for Skin. At the same time, the body healed itself from severe burns, bedsores, and other dermal ulcers, surgical incisions, and excoriations or other traumatic injuries. Artificial Skin will be at the forefront of developing new and increasingly sophisticated technology as it matures”.</h3>
+<h3 align="center">Artificial Skin encourages and supports the development and production of artificial human Skin. It is a microfiber and biosynthetic, pure cellulose film that is an ideal temporary substitute for Skin, having a very similar structure.</h3>
 
 </div>
 
@@ -56,7 +56,7 @@
               alt="YouTube Badge" />
 </a>
 
-<h3 align="center">Artificial Cornea, through its application of protocols developed at the Tissue Bioengineering Lab of Simon Bolivar University, may offer new hope for millions of people worldwide who have blindness caused by disease or injury to the Cornea. Artificial Cornea is responsible for manufacturing the artificial Cornea, the lens that focuses light on the retina and creates the image in the eye. Composed of a hydrogel or polymer that can store a large amount of water in its structure, it functions as a replacement for the damaged tissue. Regenerative medicine is a field with the potential for exponential growth. It will attract capital investments worth millions of dollars worldwide as it grows. The Tissue Bioengineering Lab of Simon Bolivar University has significant experience generating replacement corneal tissue. Artificial Cornea is a leading developer of this crucial medical material through this connection”.</h3>
+<h3 align="center">Artificial Cornea is responsible for manufacturing the artificial Cornea, the lens that focuses light on the retina and creates the image in the eye. Composed of a hydrogel or polymer that can store a large amount of water in its structure, it functions as a replacement for the damaged tissue. Regenerative medicine is a field with the potential for exponential growth.</h3>
 
 </div>
 
