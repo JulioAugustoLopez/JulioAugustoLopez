@@ -1,3 +1,5 @@
+
+
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/jruP7Or1z1VzTbly9j/giphy.gif" width=200 />
 <h1 align="center">   Hi I'm JulioAugustoLopez</h1>
@@ -200,7 +202,7 @@
     
 ---
 ---
-
+![Visitor Count](https://profile-counter.glitch.me/{JulioAugustoLopez}/count.svg)
 
 
   
